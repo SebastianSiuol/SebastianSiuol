@@ -1,6 +1,6 @@
 # Hello, I'm Sebastian Louis M. Torio! 👋
 
-🎓 I'm currently a student at the Polytechnic University of the Philippines, pursuing a Bachelor of Science in Information Technology. My journey in tech has been both exciting and rewarding, and I'm constantly seeking new ways to expand my skills and knowledge.
+🎓 I'm currently a student at the Polytechnic University of the Philippines, pursuing a Bachelor of Science in Information Technology.
 
 💻 Right now, I'm diving deep into Laravel through Laracasts, honing my web development skills.
 
