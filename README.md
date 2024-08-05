@@ -6,7 +6,7 @@
 
 🌟 Pronouns: he/his/him
 
-I’m incredibly grateful for the features that GitHub offers, which make managing my projects so much easier. Using the version control feature, GitHub became an essential part of my development process.
+I’m incredibly grateful for the features that GitHub offers, which have made managing my projects so much easier. Thanks to its version control feature, GitHub has become an essential part of my development process.
 
 <!---
 SebastianSiuol/SebastianSiuol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
