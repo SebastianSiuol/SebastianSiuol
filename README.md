@@ -2,7 +2,7 @@
 
 🎓 I'm currently a student at the Polytechnic University of the Philippines, pursuing a Bachelor of Science in Information Technology.
 
-💻 Right now, I'm diving deep into Laravel through Laracasts, honing my web development skills.
+💻 Right now, I'm learning ReactJS while completing my capstone project.
 
 🌟 Pronouns: he/his/him
 
