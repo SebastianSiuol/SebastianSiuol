@@ -1,6 +1,6 @@
 # Hello, I'm Sebastian Louis M. Torio! 👋
 
-🎓 I'm studied at the Polytechnic University of the Philippines, and pursued a Bachelor of Science in Information Technology.
+🎓 I studied at the Polytechnic University of the Philippines, and pursued a Bachelor of Science in Information Technology.
 
 💻 Currently improving my ReactJS foundation.
 
