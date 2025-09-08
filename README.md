@@ -1,8 +1,8 @@
 # Hello, I'm Sebastian Louis M. Torio! 👋
 
-🎓 I'm currently a student at the Polytechnic University of the Philippines, pursuing a Bachelor of Science in Information Technology.
+🎓 I'm studied at the Polytechnic University of the Philippines, and pursued a Bachelor of Science in Information Technology.
 
-💻 Currently learning Django and Docker for my On-The-Job training.
+💻 Currently improving my ReactJS foundation.
 
 🌟 Pronouns: he/his/him
 
