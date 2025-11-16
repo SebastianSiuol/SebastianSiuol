@@ -18,11 +18,13 @@ I am a full-stack developer with hands-on experience in both frontend and backen
 
 I aim to contribute to meaningful projects while continuing to grow in a fast-paced, team-oriented environment.
 
-- Learning 🅰️**Angular** Framework
+| Currently learning 🅰️**Angular** framework
 
 <div align="center">
 
 <h2> Frontend Tools: </h2>
+<div align="left">
+
 
 [![React](https://img.shields.io/badge/react-232730?style=for-the-badge&logo=react&logoColor=56c6e2)](https://react.dev/learn)
 [![Angular](https://img.shields.io/badge/angular-f21b65?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
@@ -33,5 +35,44 @@ I aim to contribute to meaningful projects while continuing to grow in a fast-pa
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-232730?style=for-the-badge&logo=tailwind-css&logoColor=56c6e2)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-702cf5?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+
+</div>
+</div>
+
+<div align="center">
+<h2> Backend Tools: </h2>
+<div align="left">
+
+[![Laravel](https://img.shields.io/badge/laravel-f63003?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![PHP](https://img.shields.io/badge/php-4f5c93?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Django](https://img.shields.io/badge/Django-0c4a33?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/python-3776aa?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![REST](https://img.shields.io/badge/rest_api-909fb4?style=for-the-badge&/)](https://restfulapi.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-cad1db?style=for-the-badge&logo=mysql&logoColor=white/)](https://restfulapi.net/)
+[![React](https://img.shields.io/badge/PostgreSQL-232730?style=for-the-badge&logo=postgresql&logoColor=56c6e2)](https://react.dev/learn)
+
+</div>
+
+</div>
+
+<div align="center">
+<h2> Tools & Utilities: </h2>
+
+<div align='left'>
+
+[![Git](https://img.shields.io/badge/git-f44e34.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/about)
+[![GitHub](https://img.shields.io/badge/github-242426?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Bruno](https://img.shields.io/badge/Bruno-242426?style=for-the-badge&logo=bruno&logoColor=f6a953)](https://docs.usebruno.com/)
+
+
+</div>
+<br />
+
+---
+
+<br />
+
+![SebastianSiuol's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SebastianSiuol&theme=react&hide_border=false)
 
 </div>
