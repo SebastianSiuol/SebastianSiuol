@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi, <a href="https://sebastianlouistorio.vercel.app/">I'm Sebastian Louis M. Torio!</a> </h1>
+ <h1>Hi, <a href="https://sebastianlouistorio.vercel.app/">I'm Sebastian</a> <img src="https://github.com/SebastianSiuol/SebastianSiuol/blob/main/media/wave.gif" width="30"/></h1>
 </div>
 <div align="center">
 
