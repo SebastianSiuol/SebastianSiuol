@@ -36,7 +36,7 @@ I aim to contribute to meaningful projects while continuing to grow in a fast-pa
 
 [![React](https://img.shields.io/badge/react-232730?style=for-the-badge&logo=react&logoColor=56c6e2)](https://react.dev/learn)
 [![Angular](https://img.shields.io/badge/angular-f21b65?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-[![Typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.w3schools.com/js/)
+[![Typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-030001?style=for-the-badge&logo=javascript&logoColor=f7df1d)](https://www.w3schools.com/js/)
 [![HTML5](https://img.shields.io/badge/html5-e54d26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/css-264ee4.svg?style=for-the-badge&logo=css&logoColor=white)](https://www.w3schools.com/css/)
